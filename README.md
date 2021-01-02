@@ -205,20 +205,6 @@ To generate Forknote:
 
 Extensions must be located in *extensions* folder.
 
-
-Donations
----------
-* BTC: `1EYiA8o1KsDZxMHXvptxXyaVwuhTVNBMFp`
-* DSH: <sup><sub>`D3z2DDWygoZU4NniCNa4oMjjKi45dC2KHUWUyD1RZ1pfgnRgcHdfLVQgh5gmRv4jwEjCX5LoLERAf5PbjLS43Rkd8vFUM1m`</sup></sub>
-* BCN: <sup><sub>`21YR5mw5BF2ah3yVE3kbhkjDwvuv21VR6D7hnpm4zHveDsvq5WEwyTxXLXNwtU5K4Pen89ZZzJ81fB3vxHABEUJCAhxXz2v`</sup></sub>
-* XMR: <sup><sub>`47LEJyhCgNFcoz6U8x7tUk6LEHe38NobAfn4ou8d588jY5nddvgEANLMMcwxsbfbkJRw4xPwcG583Gq189hjusShEyk9FXz`</sup></sub>
-
-*Donate XMR if you want to XMR version to be developed*
-
-Additional credits
-------------------
-* [piotaak](https://github.com/piotaak) (tests for cryptonotecoin-core extension)
-
 License
 -------
 Released under the GNU General Public License v2
